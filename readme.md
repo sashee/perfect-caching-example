@@ -4,11 +4,11 @@ Install the dependencies:
 
 * ```npm i```
 
-In one terminal, start the server:
+In **terminal one**, start the server:
 
 * ```npm run start```
 
-In another terminal, build the app:
+In **terminal two**, build the app:
 
 * ```npm run build```
 * Open [http://localhost:3000](http://localhost:3000)
@@ -28,7 +28,6 @@ Request to: /
 ```
 Request to: /
 Request to: /app.bundle.4dcaf4ded074c3c9d878.js
-Request to: /
 Request to: /
 Request to: /
 ```
