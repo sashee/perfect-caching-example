@@ -12,7 +12,9 @@ In **terminal two**, build the app:
 
 * ```npm run build```
 * Open [http://localhost:3000](http://localhost:3000)
-* Refresh the page a few times:
+* Refresh the page a few times
+
+You'll see something like this in the terminal:
 
 ```
 Request to: /
@@ -23,7 +25,9 @@ Request to: /
 
 * Modify something in the ```index.js```
 * ```npm run build```
-* Refresh the browser again a few times:
+* Refresh the browser again a few times
+
+You'll see something like this in the terminal:
 
 ```
 Request to: /
