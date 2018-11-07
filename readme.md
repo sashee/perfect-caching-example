@@ -14,7 +14,7 @@ In **terminal two**, build the app:
 * Open [http://localhost:3000](http://localhost:3000)
 * Refresh the page a few times
 
-You'll see something like this in the terminal:
+You'll see something like this in **terminal one**:
 
 ```
 Request to: /
@@ -27,7 +27,7 @@ Request to: /
 * ```npm run build```
 * Refresh the browser again a few times
 
-You'll see something like this in the terminal:
+You'll see something like this in **terminal one**:
 
 ```
 Request to: /
